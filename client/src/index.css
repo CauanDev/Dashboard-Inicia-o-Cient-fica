@@ -1,0 +1,34 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.espaco {
+    display: flex;
+    gap: 10px;
+}
+
+.centro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    flex-direction: column;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex{
+    display:flex;
+    gap: 2px
+}
+
+body{
+    background-color: rgb(201, 216, 230);
+}
