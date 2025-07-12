@@ -17,14 +17,14 @@ A proposta é transformar grandes volumes de dados brutos em visualizações com
 
 ## 📁 Estrutura do Projeto
 
-.
+```bash
 ├── cliente/ # Frontend em React
 │ └── react/
 ├── server/ # Backend com FastAPI
 │ └── app/
 ├── dump.sql # Dump do banco de dados PostgreSQL
 ├── README.md
-.
+```
 
 
 ---
